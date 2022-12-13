@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle Wanderi
 - 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently learning Javascript and C
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on any frontend projects
 - 📫 How to reach me michellewangari12@gmail.com
 
