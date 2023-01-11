@@ -13,4 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelle-Wanderi)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelle-Wanderi)](https://git.io/streak-stats)
-![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelle-Wanderi&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle-Wanderi)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michelle3)]
