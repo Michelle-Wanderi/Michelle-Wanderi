@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle-Wanderi)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michelle_Wanderi)]
+[![Michelle_Wanderi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Michelle_Wanderi)](https://github.com/Michelle-Wanderi/github-readme-stats)
