@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michelle Wanderi
+- 👋 Hi, I’m Michelle 
 - 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on any frontend projects
