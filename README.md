@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+![](https://raw.githubusercontent.com/Michelle-Wanderi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelle-Wanderi)](https://git.io/streak-stats)
