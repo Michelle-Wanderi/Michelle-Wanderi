@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelle-Wanderi)](https://github.com/Michelle-Wanderi/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api?username=Michelle-Wanderi&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Michelle's github stats"
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelle-Wanderi)](https://git.io/streak-stats)
 
 
