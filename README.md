@@ -9,7 +9,7 @@ Michelle-Wanderi/Michelle-Wanderi is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelle-Wanderi)]
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Michelle-Wanderi)](https://git.io/streak-stats)
 
 
