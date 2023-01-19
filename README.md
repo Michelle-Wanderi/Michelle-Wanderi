@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Michelle<br> I’m interested in web development and software engineering<br> I’m currently learning Javascript, React and Python<br> I’m looking to collaborate on any frontend projects<br> How to reach me michellewangari12@gmail.com<br>
+ -> Hi, I’m Michelle<br> -> I’m interested in web development and software engineering<br> -> I’m currently learning Javascript, React and Python<br> -> I’m looking to collaborate on any frontend projects<br> -> How to reach me michellewangari12@gmail.com<br> -> Fun fact about me - I love animals and music
 
 
 # 💻 Tech Stack:
