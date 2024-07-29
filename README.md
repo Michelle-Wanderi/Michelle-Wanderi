@@ -1,5 +1,5 @@
 # 💫 About Me:
- -> Hi, I’m Michelle<br> -> <br> -> I’m currently learning SQL and Python<br> -> I’m looking to collaborate on any data analysis projects<br> -> How to reach me michellewangari12@gmail.com<br> -> 
+ -> Hi, I’m Michelle<br> -> <br>  I’m currently learning SQL and Python<br> -> I’m looking to collaborate on any data analysis projects<br> -> How to reach me michellewangari12@gmail.com<br> -> 
 
 
 
